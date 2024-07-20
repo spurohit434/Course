@@ -1,4 +1,3 @@
-package com.primitive.datatypes;
 
 public class BiNumber {
 	private int num1, num2;

@@ -1,4 +1,3 @@
-package com.loopsinJava;
 
 public class MyNumber {
 	private int number;

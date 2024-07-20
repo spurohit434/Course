@@ -1,5 +1,3 @@
-package com.primitive.datatypes;
-
 import java.math.BigDecimal;
 
 public class SimpleInterestCalculatorRunner {

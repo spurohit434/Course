@@ -1,5 +1,3 @@
-package com.OOPinJava;
-
 public class Book {
 	private int noOfCopies;
 

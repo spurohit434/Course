@@ -1,4 +1,3 @@
-package com.loopsinJava;
 
 import java.util.Scanner;
 

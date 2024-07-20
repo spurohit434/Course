@@ -1,5 +1,3 @@
-package com.OOPinJava;
-
 public class MotorBikeRunner {
 
 	public static void main(String[] args) {

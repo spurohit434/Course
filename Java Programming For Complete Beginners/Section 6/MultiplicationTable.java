@@ -1,5 +1,3 @@
-package com.firstJavaClass;
-
 public class MultiplicationTable {
 	void print() {
 		print(5); // calls for print(num) method

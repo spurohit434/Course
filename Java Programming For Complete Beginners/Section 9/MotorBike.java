@@ -1,5 +1,3 @@
-package com.OOPinJava;
-
 public class MotorBike {
 	// state of object
 	private int speed;

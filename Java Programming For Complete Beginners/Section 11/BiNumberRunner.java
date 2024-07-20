@@ -1,4 +1,3 @@
-package com.primitive.datatypes;
 
 public class BiNumberRunner {
 	public static void main(String[] args) {

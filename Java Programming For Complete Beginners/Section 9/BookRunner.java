@@ -1,5 +1,3 @@
-package com.OOPinJava;
-
 public class BookRunner {
 	public static void main(String[] args) {
 		Book art_of_CP = new Book();

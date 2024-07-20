@@ -1,4 +1,3 @@
-package com.ifElseStatement;
 
 import java.util.Scanner;
 

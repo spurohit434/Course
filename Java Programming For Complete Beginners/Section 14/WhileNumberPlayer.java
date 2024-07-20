@@ -1,4 +1,3 @@
-package com.loopsinJava;
 
 public class WhileNumberPlayer {
 	private int limit;

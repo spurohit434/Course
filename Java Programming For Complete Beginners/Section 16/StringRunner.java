@@ -1,4 +1,3 @@
-package com.intro_arrays;
 
 public class StringRunner {
 

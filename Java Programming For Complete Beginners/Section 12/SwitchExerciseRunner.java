@@ -1,4 +1,3 @@
-package com.ifElseStatement;
 
 public class SwitchExerciseRunner {
 

@@ -1,4 +1,3 @@
-package com.intro_arrays;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;
